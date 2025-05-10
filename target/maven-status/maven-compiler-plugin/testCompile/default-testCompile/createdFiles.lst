@@ -1,0 +1,8 @@
+StepDefinitions\LoginDemoSteps.class
+StepDefinitions\TestRunner.class
+StepDefinitions\TagsDemo.class
+StepDefinitions\GoogleSearchSteps.class
+HooksSteps\TestRunnerForHooks.class
+StepDefinitions\TagsTestRunner.class
+HooksSteps\HooksSteps.class
+StepDefinitions\LoginSteps.class

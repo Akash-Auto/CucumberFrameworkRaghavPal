@@ -6,7 +6,7 @@ public class RegistrationPage {
 		
 		
 		System.out.println("This is Registration Page");
-		System.out.println("Added this line directly in Github");
+		System.out.println("Changed from conflict branch");
 		
 		
 	}

@@ -6,7 +6,9 @@ public class RegistrationPage {
 		
 		
 		System.out.println("This is Registration Page");
-		System.out.println("Changed directly on master");
+
+		System.out.println("Changed from conflict branch");
+
 		
 		
 	}

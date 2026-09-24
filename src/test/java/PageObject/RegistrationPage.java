@@ -9,6 +9,9 @@ public class RegistrationPage {
 
 		System.out.println("Changed from conflict branch");
 
+		System.out.println("Unfinished work for stash demo");
+		
+		System.out.println(" I have added one more line");
 		
 		
 	}
